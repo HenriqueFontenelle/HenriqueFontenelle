@@ -11,7 +11,7 @@ Essa combinação de áreas moldou uma forma de pensar que une criatividade, vis
 - 🎓 Engenharia de Software + Engenharia de Energia (dupla diplomação) — UnB
 - 🤖 Entusiasta de IA e sempre explorando novas aplicações
 - 🔧 Interesse em backend, dados, sistemas e infraestrutura
-- 👨‍🏫 Instrutor das disciplinas de Docência e de Gestão Estratégica e de TI na **Universidade Corporativa da Polícia Rodoviária Federal**
+- 👨‍🏫 Instrutor das disciplinas de Docência e de Gestão Estratégica e de TI na **Universidade Corporativa do MJ**
 - 🌱 Aprendendo continuamente — de algoritmos a arquitetura de sistemas
 - 📫 Contato: fontenelle.dec@gmail.com
 
