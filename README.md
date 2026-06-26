@@ -1,6 +1,6 @@
 # Olá, eu sou Henrique Fontenelle 👋
 
-Engenheiro de Software em formação na **Universidade de Brasília (UnB)**, atualmente no 7º semestre, com dupla diplomação em andamento em **Engenharia de Energia**. Tenho uma trajetória acadêmica diversa — sou formado em **Música pela UnB**, com pós-graduações em **Educação Transformadora (PUC-RS)** e **Análise Estratégica de Sistemas de Informação (FGV)**.
+Aluno do Curso de Engenharia de Software na **Universidade de Brasília (UnB)**, atualmente no 7º semestre, com intenção de dupla diplomação em andamento em **Engenharia de Energia**. Tenho uma trajetória acadêmica diversa — sou formado em **Música pela UnB**, com pós-graduações em **Educação Transformadora (PUC-RS)** e **Análise Estratégica de Sistemas de Informação (FGV)**.
 
 Essa combinação de áreas moldou uma forma de pensar que une criatividade, visão estratégica e rigor técnico.
 
@@ -8,10 +8,10 @@ Essa combinação de áreas moldou uma forma de pensar que une criatividade, vis
 
 ## 🚀 Sobre mim
 
-- 🎓 Engenharia de Software + Engenharia de Energia (dupla diplomação) — UnB
+- 🎓 Cursando Engenharia de Software + Engenharia de Energia (intenção de dupla diplomação) — UnB
 - 🤖 Entusiasta de IA e sempre explorando novas aplicações
 - 🔧 Interesse em backend, dados, sistemas e infraestrutura
-- 👨‍🏫 Instrutor das disciplinas de Docência e de Gestão Estratégica e de TI na **Universidade Corporativa do MJ**
+- 👨‍🏫 Instrutor das disciplinas de Docência e de Gestão Estratégica e de TI na **uma das Universidades Corporativas do MJ**
 - 🌱 Aprendendo continuamente — de algoritmos a arquitetura de sistemas
 - 📫 Contato: fontenelle.dec@gmail.com
 
